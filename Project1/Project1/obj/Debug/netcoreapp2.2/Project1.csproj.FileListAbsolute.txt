@@ -1,0 +1,11 @@
+/Users/steelcase/Projects/Project1/Project1/bin/Debug/netcoreapp2.2/Project1.deps.json
+/Users/steelcase/Projects/Project1/Project1/bin/Debug/netcoreapp2.2/Project1.runtimeconfig.json
+/Users/steelcase/Projects/Project1/Project1/bin/Debug/netcoreapp2.2/Project1.runtimeconfig.dev.json
+/Users/steelcase/Projects/Project1/Project1/bin/Debug/netcoreapp2.2/Project1.dll
+/Users/steelcase/Projects/Project1/Project1/bin/Debug/netcoreapp2.2/Project1.pdb
+/Users/steelcase/Projects/Project1/Project1/obj/Debug/netcoreapp2.2/Project1.csprojAssemblyReference.cache
+/Users/steelcase/Projects/Project1/Project1/obj/Debug/netcoreapp2.2/Project1.csproj.CoreCompileInputs.cache
+/Users/steelcase/Projects/Project1/Project1/obj/Debug/netcoreapp2.2/Project1.AssemblyInfoInputs.cache
+/Users/steelcase/Projects/Project1/Project1/obj/Debug/netcoreapp2.2/Project1.AssemblyInfo.cs
+/Users/steelcase/Projects/Project1/Project1/obj/Debug/netcoreapp2.2/Project1.dll
+/Users/steelcase/Projects/Project1/Project1/obj/Debug/netcoreapp2.2/Project1.pdb
